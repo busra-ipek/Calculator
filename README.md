@@ -1,6 +1,6 @@
 # Calculator
 HTML, CSS, Bootstrap ve Javascript kullanılarak web tabanlı bir hesap makinesi yapıldı. 
-Hesap makinesi, standart hesap makineleri baz alınarak ve kullanılabilirlik bileşenleri de dikkate alınarak hazırlandı. 
+Hesap makinesi, standart hesap makineleri baz alınarak ve kullanılabilirlik bileşenleri dikkate alınarak hazırlandı. 
 
 ## Collaborats
 -İlayda Karaçuka:  [@ilaydaKaracuka](https://github.com/ilaydaKaracuka)  

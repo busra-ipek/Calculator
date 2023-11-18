@@ -13,5 +13,5 @@ Hesap makinesi, standart hesap makineleri baz alınarak ve kullanılabilirlik bi
 
 -Berna Batı:  [@Bernabati](https://github.com/Bernabati)
 
-## Hoca
--Hoca:  [@aguven6](https://github.com/aguven6)
+## Eğitmen
+-Eğitmen:  [@aguven6](https://github.com/aguven6)

@@ -1,0 +1,41 @@
+ .konteyner{
+        height:580px;
+        background-color:#033d53;
+        width: 450px;
+        border: 9px inset lightgrey;
+        border-radius:90px;
+        background-size:cover;
+    }
+
+    .buton{
+        height:60px;
+        background-color:#022a3a;
+        width: 60px;
+        font-weight:bold;
+        font-size: 40px;
+        color:lightgray;
+        line-height: 50%;
+        border-radius:20px;
+        border-color: #034c69;
+        border-width: 2px;  
+        
+    }
+
+    .buton2{
+        border-color: rgb(0, 22, 32);
+    }
+
+    .sayi_buton{
+       filter: drop-shadow(3px 6px 6px rgb(192, 192, 167));
+    }
+
+    .gosterge{
+        height:100px;
+        width:90%;
+        background-color:rgb(41, 41, 41);
+        font-size:4rem;
+        color:lightgray;
+        text-align: right;
+        padding-left: 20px;
+        padding-right: 20px;
+    }

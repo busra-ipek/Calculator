@@ -3,7 +3,7 @@ HTML, CSS, Bootstrap ve Javascript kullanılarak bir hesap makinesi yapıldı.
 Hesap makinesi, standart hesap makineleri baz alınarak ve kullanılabilirlik bileşenleri de dikkate alınarak hazırlandı. 
 
 ## Collaborats
--İlayda Karaçuka:  [@ilaydaKaracuka] (https://github.com/ilaydaKaracuka)  
+-İlayda Karaçuka:  @ilaydaKaracuka (https://github.com/ilaydaKaracuka)  
 
 -Büşra İpek:  [@busra-ipek] (https://github.com/busra-ipek)
 

@@ -1,5 +1,5 @@
 # Calculator
-HTML, CSS, Bootstrap ve Javascript kullanılarak bir web tabanlı hesap makinesi yapıldı. 
+HTML, CSS, Bootstrap ve Javascript kullanılarak web tabanlı bir hesap makinesi yapıldı. 
 Hesap makinesi, standart hesap makineleri baz alınarak ve kullanılabilirlik bileşenleri de dikkate alınarak hazırlandı. 
 
 ## Collaborats
